@@ -1,0 +1,5 @@
+sentence-transformers==1.0.4
+nltk==3.5
+faiss-cpu==1.7.1
+pandas==1.0.5
+numpy==1.19.1
